@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f06961d8f2120577a269e072a135d412",
+    "revision": "98d4fd9a07741787fc77a90afdd38a24",
     "url": "/hiking-cards-list/index.html"
   },
   {
-    "revision": "af8aea129801b2b74896",
+    "revision": "ce38b8f9827987b2205f",
     "url": "/hiking-cards-list/static/css/main.efd8e682.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hiking-cards-list/static/js/2.0dcbddb6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "af8aea129801b2b74896",
-    "url": "/hiking-cards-list/static/js/main.b1be1f8f.chunk.js"
+    "revision": "ce38b8f9827987b2205f",
+    "url": "/hiking-cards-list/static/js/main.a7ca4d30.chunk.js"
   },
   {
     "revision": "422a4f4ffbff2a2de24f",
