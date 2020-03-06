@@ -42,7 +42,35 @@ class App extends Component {
           'elevation_change': '100 ft',
           'hiking_time': '15 mins',
           'id': '2'
+        },
+        {
+          'name': 'Escondido Falls',
+          'imageurl':'https://www.hikespeak.com/img/la/Escondido/Escondido_Falls_2615.jpg',
+          'location': 'Malibu, CA',
+          'length': '3.8 miles (out and back)',
+          'elevation_change': '400 ft',
+          'hiking_time': '1 hour 45 minutes',
+          'id': '3'
+        },
+        {
+          'name': 'La Jolla Canyon Loop',
+          'imageurl':'https://www.hikespeak.com/img/la/Mugu/Ray_Miller_Trail_IMG_7120.jpg',
+          'location': 'Malibu, CA',
+          'length': '11.75 miles (loop)',
+          'elevation_change': '1225 feet',
+          'hiking_time': '5 hours 45 minutes',
+          'id': '4'
+        },
+        {
+          'name': 'Mugu Peak',
+          'imageurl':'https://www.hikespeak.com/img/la/Mugu/La_jolla_Valley_Loop_Trail_IMG_7417.jpg',
+          'location': 'Malibu, CA',
+          'length': '6.5 miles (out and back)',
+          'elevation_change': '1225 feet',
+          'hiking_time': '3 hours 30 minutes',
+          'id': '5'
         }
+        
       ] 
     }
     this.setState({
